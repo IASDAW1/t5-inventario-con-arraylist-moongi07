@@ -1,3 +1,4 @@
+//No consigo que se ejecute el código por algo del paquete com.mycompany.inventario y no sé como arreglarlo, asi que no se si funciona.
 import java.util.ArrayList;
 import java.util.Scanner;
 
